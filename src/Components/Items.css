@@ -1,0 +1,9 @@
+.red {
+    background-color: red;
+  }
+  .Items{
+    width: 800px;
+    height:24px;
+  
+    border: 1px solid rgb(153, 153, 153);
+  }
